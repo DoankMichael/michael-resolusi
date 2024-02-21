@@ -1,2 +1,2 @@
 # michael-resolusi
-repository untuk menyimpan beberapa program pembelajaran kedepannya
+Repository untuk menyimpan beberapa program pembelajaran kedepannya
